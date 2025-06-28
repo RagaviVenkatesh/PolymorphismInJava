@@ -10,21 +10,6 @@ Let’s binge some clean code 🍿
 
 ---
 
-## 📁 Project Structure
-
-src/
-├── overloading/
-│ ├── NetflixSearch.java
-│ └── NetflixSearchTest.java
-└── overriding/
-├── NetflixPlayer.java
-├── MobilePlayer.java
-├── SmartTVPlayer.java
-└── OverrideDemo.java
-
-
----
-
 ## ✅ Method Overloading: One Name, Many Roles
 
 The `NetflixSearch` class shows how the same method name `search()` can serve different purposes based on parameters.
